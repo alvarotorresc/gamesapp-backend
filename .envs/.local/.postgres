@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=gamesapp
+POSTGRES_USER=bZSvywBcdDVLfSARZkXudJizSwxEAiwq
+POSTGRES_PASSWORD=3KLYLAn74Mw0DU6R3ffc27cdemGKe7RsLefMInTFST47SBlqgBrkGAf4rnrvSACw
